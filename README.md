@@ -1,3 +1,8 @@
+# Multiple Step Form Created With React
+Multiple step form created in React by following the video by [Traversy Media](https://www.youtube.com/watch?v=zT62eVxShsY).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
